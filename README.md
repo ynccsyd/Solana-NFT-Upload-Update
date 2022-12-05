@@ -76,7 +76,7 @@ async function updateNft(
  // await createNft(metaplex, uri)
 
   // You can get this from the Solana Explorer URL 
-  const mintAddress = new PublicKey("EPd324PkQx53Cx2g2B9ZfxVmu6m6gyneMaoWTy2hk2bW")
+  const mintAddress = new PublicKey("Write here your PbblicKey")
   await updateNft(metaplex, uri, mintAddress)
 
 ```
